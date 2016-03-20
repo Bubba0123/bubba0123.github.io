@@ -1,0 +1,50 @@
+
+
+h1 {
+  font-family: Helvetica;
+  font-weight: 300em;
+  font-size: 30em;
+  background-color: brown;
+}
+
+h2 {
+  font-family: cursive;
+  font-weight: 300;
+  font-size: 30em;
+  color: brown
+}
+
+h3 {
+  font-style:italic;
+  font-weight: 500px;
+  word-spacing: inherit;
+}
+
+h4 {
+  color: blue;
+  font-size: 50px;
+}
+
+p {
+  color: purple;
+  font-size: 50em;
+}
+
+#Jabberwocky {
+  padding: 5px;
+  margin: 50px;
+  float: left;
+}
+
+#stanza2 {
+  font-style: normal;
+  border: 30em;
+  width: 30px;
+  background-color: inherit;
+}
+
+#poem2 {
+  font-size: 50em;
+  float: left;
+  text-decoration: overline;
+}
