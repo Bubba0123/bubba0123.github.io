@@ -1,0 +1,29 @@
+body{
+  background-color: green;
+}
+
+.panel img{
+  max-width: 100%;
+  height: auto;
+}
+
+
+#main{
+  background-image: url('http://cdn1.theodysseyonline.com/files/2015/12/03/635847729055384562-496957602_5429c32b425f183f61bf7316_new-york-city-skyline.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron{
+  height: 600px;
+}
+
+#main-content{
+  margin-top: 160px;
+  color: white;
+}
+
+#about p{
+  margin: 0 auto;
+  width: 60%;
+}
